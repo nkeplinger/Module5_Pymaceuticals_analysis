@@ -5,4 +5,7 @@ Three observations made in this Analysis include the following:
 2. Treatments Capomulin and Ramicane had the lowest mean tumor volume of all the treatments 
 3. Treatments Capomulin and Ramicane had the most mice evaluated AND the most timepoints evalauted across all treatments"""
 
-See data in following format:
+See data in following formats:
+File for execution: Keplinger_Pymacutical_code.ipynb
+Resources for execution: located in data/
+
