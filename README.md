@@ -9,3 +9,6 @@ See data in following formats:
 File for execution: Keplinger_Pymacutical_code.ipynb
 Resources for execution: located in data/
 
+Note: Did not finish plotting the coorlation on the last graph
+Also, the Tasking is often listed in a separate cell than the solution so that I could continue to compare questions/excpected outcomes and solutions
+
